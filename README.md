@@ -81,7 +81,3 @@ Car-Shop/
 ## Author
 
 GenKnot
-
-## License
-
-MIT License 
