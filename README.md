@@ -38,7 +38,7 @@ A Django-based used car marketplace developed in 2022. This project provides a c
 
 1. Clone and setup:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/GenKnot/Car-Shop.git
 cd Car-Shop
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
